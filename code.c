@@ -1,3 +1,3 @@
 include<stdio.h>
-print ("even number )
-
+printf("even number" )
+printf("number is divisible by 2")
